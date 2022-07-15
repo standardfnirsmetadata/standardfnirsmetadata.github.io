@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: Standard fNIRS Metadata
+logo:
+description: The standardization of the fNIRS LSL Metadata may improve the interface of variety of devices and software with fNIRS devices from different manufacturers, reduce complexity in the exchange of signals augmenting the fNIRS research with other technologies. 
